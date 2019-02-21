@@ -197,7 +197,7 @@ unicode = 0052;
 },
 {
 glyphname = S;
-lastChange = "2019-02-21 01:36:43 +0000";
+lastChange = "2019-02-21 01:43:17 +0000";
 layers = (
 {
 layerId = "D66D4D2F-DD62-4D3E-A2F0-4EB535459A48";
@@ -232,7 +232,7 @@ nodes = (
 );
 }
 );
-width = 600;
+width = 958;
 }
 );
 unicode = 0053;
