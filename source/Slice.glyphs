@@ -1,8 +1,5 @@
 {
 .appVersion = "1192";
-DisplayStrings = (
-S
-);
 date = "2019-02-21 01:35:58 +0000";
 familyName = "New Font";
 fontMaster = (
@@ -197,7 +194,7 @@ unicode = 0052;
 },
 {
 glyphname = S;
-lastChange = "2019-02-21 01:43:17 +0000";
+lastChange = "2019-02-21 01:49:20 +0000";
 layers = (
 {
 layerId = "D66D4D2F-DD62-4D3E-A2F0-4EB535459A48";
@@ -216,7 +213,7 @@ nodes = (
 "366 410 LINE",
 "366 450 LINE",
 "905 450 LINE",
-"913 718 LINE",
+"923 718 LINE",
 "102 719 LINE SMOOTH",
 "71 719 OFFCURVE",
 "48 699 OFFCURVE",
